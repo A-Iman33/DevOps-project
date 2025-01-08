@@ -1,0 +1,10 @@
+devops-task-key.json
+terraform-provider-google_v6.14.1_x5.exe
+k8s
+.terraform.lock.hcl
+dockerfile
+main.tf
+terraform.tfstate
+license.txt
+/app/venv
+/app/__pycache__
